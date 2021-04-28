@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CharHopLayout</string>
+
+    <string name="delete_char">Delete_Earcon</string>
+    <string name="select_earcon">Select_Earcon</string>
+    <string name="flow_shift">Help_Earcon</string>
+</resources>
